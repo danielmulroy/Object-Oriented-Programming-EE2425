@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=PictureQuestion
+comment0.text=\r\n\ Class\ for\ generating\ picture\ questions\r\n\r\n\ @author\ Group\ H\r\n\ @version\ 29/04/2018\r\n
+comment1.params=
+comment1.target=PictureQuestion()
+comment1.text=\r\n\ Constructor\ of\ PictureQuestion\ to\ initialise\ the\ variables\r\n
+comment2.params=
+comment2.target=java.awt.image.BufferedImage[]\ readImages()
+comment2.text=\r\n\ Randomly\ sorts\ pictures\ and\ returns\ an\ array\ of\ pictures\r\n\r\n\ @return\ \ \ Randomly\ sorted\ images\r\n
+comment3.params=
+comment3.target=java.lang.String[][]\ possibleAnswers()
+comment3.text=\r\n\ Assigns\ possible\ answers\ to\ randomly\ sorted\ images\r\n\r\n\ @return\ \ \ Two\ dimmensional\ array\ of\ possible\ image\ answers\r\n
+comment4.params=sequence
+comment4.target=int[]\ randomSequence(int[])
+comment4.text=\r\n\ Creates\ a\ random\ sequence\ for\ picture\ re-arangement\r\n\r\n\ @param\ \ \ Sequence\ of\ numbers\ from\ 0\ to\ 4\r\n\ @return\ \ \ Random\ sequence\ of\ numbers\ from\ 0\ to\ 5\r\n
+numComments=5

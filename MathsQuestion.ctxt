@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MathsQuestion
+comment0.text=\r\n\ Class\ for\ generating\ mathematical\ questions\r\n\r\n\ @author\ Group\ H\r\n\ @version\ 29/04/2018\r\n
+comment1.params=
+comment1.target=MathsQuestion()
+comment1.text=\r\n\ MathsQuestions\ constructor\ to\ initialise\ variables\r\n
+comment2.params=
+comment2.target=java.lang.String\ randomMathsQuestion()
+comment2.text=\r\n\ Method\ to\ create\ a\ random\ maths\ question\r\n\r\n\ @return\ \ \ \ Random\ maths\ question\ in\ string\r\n
+comment3.params=
+comment3.target=int\ answerMaths()
+comment3.text=\r\n\ Method\ to\ calculate\ the\ answer\ for\ previously\ generated\ question\r\n\r\n\ @return\ \ \ \ Correct\ answer\ in\ string\r\n
+numComments=4

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Scoreboard
+comment0.text=\r\n\ Scoreboard\ class\ to\ keep\ track\ of\ players\ scores.\r\n\r\n\ @author\ Group\ H\r\n\ @date\ 29/04/2018\r\n
+comment1.params=
+comment1.target=Scoreboard()
+comment1.text=\r\n\ Constructor\ of\ Scoreboard\ to\ initialise\ the\ variables\r\n
+comment2.params=
+comment2.target=java.lang.String[]\ scanScoreboard()
+comment2.text=\r\n\ Method\ to\ scan\ the\ scoreboard\r\n\r\n\ @return\ \ Array\ of\ scoreboard\ lines\ as\ appears\ in\ the\ text\ file\r\n
+comment3.params=scoreboardLines
+comment3.target=java.lang.String[][]\ dividedLinesScore(java.lang.String[])
+comment3.text=\r\n\ Method\ to\ divide\ lines\ of\ scoreboards\ to\ segments\r\n\r\n\ @param\ Array\ of\ scoreboard\ lines\r\n\ @return\ \ Two\ dimentional\ array\ of\ scoreboard\ line\ segments\r\n
+comment4.params=name\ newScore\ newTime
+comment4.target=java.lang.String[]\ overwriteAndOutputSc(java.lang.String,\ int,\ long)
+comment4.text=\r\n\ Method\ to\ overwrite\ the\ scoreboard\r\n\ \r\n\ @param\ String\ with\ the\ players\ name,\ int\ with\ score\ and\ long\ with\ time\r\n\ @return\ New\ array\ of\ scoreboard\ lines\ with\ the\ new\ player\ score\r\n
+numComments=5

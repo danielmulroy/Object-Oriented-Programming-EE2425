@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=QuestionsMC
+comment0.text=\r\n\ QuestionsMC\ class\ to\ read\ the\ multiple\ choice\ questions\ and\ their\ answers.\r\n\r\n\ @author\ Group\ H\r\n\ @date\ 29/04/2018\r\n
+comment1.params=
+comment1.target=QuestionsMC()
+comment1.text=\r\n\ QuestionsMC\ constructor\ to\ initialise\ the\ variables.\r\n
+comment2.params=lineNumber
+comment2.target=java.lang.String\ scanningQuestions(int)
+comment2.text=\r\n\ scanningQuestions\ method\ to\ scan\ the\ text\ file\ and\ put\ all\ lines\ on\ the\ array\ of\ strings\r\n\r\n\ @param\ \ lineNumber\ line\ number\ of\ the\ question\r\n\ @return\ \ \ \ string\ array\ questionLines[lineNumber]\ desired\ line\ number\r\n
+comment3.params=questionNumber
+comment3.target=java.lang.String\ createQuestion(int)
+comment3.text=\r\n\ Method\ for\ selecting\ random\ question\r\n\r\n\ @param\ \ questionNumber\ desired\ question\ number\r\n\ @return\ \ \ \ question\ in\ string\r\n
+comment4.params=question
+comment4.target=java.lang.String[]\ createAnswers(java.lang.String)
+comment4.text=\r\n\ method\ for\ giving\ the\ possible\ answers\ to\ the\ question\ and\ right\ answer\r\n\r\n\ @param\ \ question\ string\r\n\ @return\ \ \ \ string\ array\ of\ possible\ answers\ and\ correct\ answer\ number\ in\ string\r\n
+numComments=5

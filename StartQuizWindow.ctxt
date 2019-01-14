@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=StartQuizWindow
+comment0.text=\r\n\ StartQuizWindow\ class\ that\ has\ a\ main\ method\ in\ it\r\n\r\n\ @author\ Group\ H\r\n\ @version\ 29/04/2018\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Main\ method\ to\ start\ the\ game\r\n
+numComments=2
